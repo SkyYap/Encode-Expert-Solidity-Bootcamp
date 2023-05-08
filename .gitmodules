@@ -1,0 +1,3 @@
+[submodule "Week8/GasOptimisationFoundry/lib/forge-std"]
+	path = Week8/GasOptimisationFoundry/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
